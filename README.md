@@ -14,6 +14,12 @@
 
 三个脚本之间使用了固定的 `/home` 路径，因此部署时请保持上述文件名，并全部放在 `/home` 目录。
 
+## 运行截图
+
+![Shell 运行截图](./images/shell.png)
+
+![其他操作截图](./images/ossutil.png)
+
 ## 默认配置
 
 - Oracle 用户：`oracle`
